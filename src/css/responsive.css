@@ -1,0 +1,20 @@
+@media (max-width: 500px) {
+    body {
+        width: 375px;
+        height: 1500px;
+        display: flex;
+        margin: auto;
+        font-size: 15px;
+    }
+    .principal{
+        display: block;
+        margin: 20px auto;
+    }
+    .sedans {
+        border-radius: 10px 10px 0px 0px;
+    }
+    .luxurys {
+        border-radius: 0px 0px 10px 10px;
+    }
+    
+}
